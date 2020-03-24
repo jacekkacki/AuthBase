@@ -12,7 +12,7 @@ Or
 
 ## Usage
 
-Run simple chat app write `yarn start` or `npm start`.
+Run AuthBase server write `yarn start` or `npm start`.
 
 For example ospen browser window and typing:
 - `http://localhost:8000/`,
